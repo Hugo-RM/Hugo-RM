@@ -1,6 +1,6 @@
 - 👋 Hello, I am Hugo Ruiz-Mireles
-- 👀 I’m interested in most facets of computer science
-- 🌱 I’m currently learning C++ and Python
+- 👀 I’m interested in the many facets of computer science
+- 🌱 I’m currently learning C++, Java, and Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: gmail - hugo.ruiz-mireles, linkedin - Hugo Ruiz-Mireles
 - 😄 Pronouns: He/Him
