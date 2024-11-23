@@ -2,7 +2,7 @@
 - 👀 I’m interested in the many facets of computer science
 - 🌱 I’m currently learning C++, Java, Python, Git and GitHub
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: gmail - hugo.ruiz-mireles@gmail.com, linkedIn - [Hugo Ruiz-Mireles](www.linkedin.com/in/hugo-ruiz-mireles/)
+- 📫 How to reach me: gmail - hugo.ruiz-mireles@gmail.com, linkedIn - www.linkedin.com/in/hugo-ruiz-mireles/
 - 😄 Pronouns: He/Him
 
 <!---
