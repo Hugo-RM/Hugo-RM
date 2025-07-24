@@ -20,11 +20,6 @@
 - Preparing for summer 2026 software engineering internships
 - Expanding knowledge in data structures and algorithms
 
-#### Get In Touch
-
-- Email: hugo.ruizmireles@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/hugo-ruiz-mireles/)
-
 <!---
 Hugo-RM/Hugo-RM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
