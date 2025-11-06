@@ -20,9 +20,9 @@
 - Preparing for summer 2026 software engineering internships
 - Expanding knowledge in data structures and algorithms
 
-#### Projects
+#### Pull Requests
 
-[testing issue linking](https://github.com/Hugo-RM/sorta-audiobook-tts/issues/1)
+- [Neetcode 150 List Django app](https://github.com/CTI-CodeDay/DjangoDemo/pull/354)
 
 <!---
 Hugo-RM/Hugo-RM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
