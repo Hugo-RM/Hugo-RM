@@ -20,9 +20,10 @@
 - Preparing for summer 2026 software engineering internships
 - Expanding knowledge in data structures and algorithms
 
-#### Pull Requests
+#### Open Source Contributions
 
-- [Neetcode 150 List Django app](https://github.com/CTI-CodeDay/DjangoDemo/pull/354)
+- **Git Extras**: [Changed Git Magic's usage of -f to use --force-with-lease](https://github.com/tj/git-extras/pull/1218)
+- **p5.js Web Editor**: [Enables URL parsing of p5.js version and add-on libraries](https://github.com/processing/p5.js-web-editor/pull/3715)
 
 <!---
 Hugo-RM/Hugo-RM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
