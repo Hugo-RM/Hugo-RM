@@ -20,6 +20,10 @@
 - Preparing for summer 2026 software engineering internships
 - Expanding knowledge in data structures and algorithms
 
+#### Projects
+
+[testing issue linking](https://github.com/Hugo-RM/sorta-audiobook-tts/issues/1)
+
 <!---
 Hugo-RM/Hugo-RM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
